@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payments-service", "payments-service.csproj", "{3113243A-F78E-4C0E-9D98-900197212EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3113243A-F78E-4C0E-9D98-900197212EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3113243A-F78E-4C0E-9D98-900197212EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3113243A-F78E-4C0E-9D98-900197212EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3113243A-F78E-4C0E-9D98-900197212EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
